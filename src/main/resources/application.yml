@@ -1,0 +1,2 @@
+web3j:
+  client-address: http://127.0.0.1:7545 #https://goerli.infura.io/v3/3ef2c50b023e4736a00ed1cc428584fa
